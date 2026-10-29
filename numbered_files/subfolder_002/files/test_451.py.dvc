@@ -1,5 +1,0 @@
-outs:
-- md5: c25de330bf0eec366743172c0a829a76
-  size: 1000000
-  hash: md5
-  path: test_451.py

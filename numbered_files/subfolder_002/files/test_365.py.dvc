@@ -1,5 +1,0 @@
-outs:
-- md5: 197296e9c21a43b35a912063073376a6
-  size: 1000000
-  hash: md5
-  path: test_365.py
