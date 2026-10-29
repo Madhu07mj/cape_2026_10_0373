@@ -1,0 +1,5 @@
+outs:
+- md5: 86a5f7703c129732def9d6943d68bf1c
+  size: 1000000
+  hash: md5
+  path: test_360.py
