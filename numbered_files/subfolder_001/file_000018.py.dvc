@@ -1,0 +1,5 @@
+outs:
+- md5: 91ee5a387f39e14c85b3dd0007e22b41
+  size: 1000000
+  hash: md5
+  path: file_000018.py
