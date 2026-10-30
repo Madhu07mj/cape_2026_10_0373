@@ -1,0 +1,5 @@
+outs:
+- md5: fed1607bf18ecb9ee534e13892b155f1
+  size: 1048576
+  hash: md5
+  path: file_2753.txt

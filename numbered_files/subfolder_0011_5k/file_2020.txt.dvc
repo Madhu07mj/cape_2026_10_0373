@@ -1,0 +1,5 @@
+outs:
+- md5: 8b81f261e28acd9a145f768a0050ad84
+  size: 1048576
+  hash: md5
+  path: file_2020.txt

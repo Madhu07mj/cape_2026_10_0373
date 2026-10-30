@@ -1,0 +1,5 @@
+outs:
+- md5: 1d3ffc63deaaf56cadcc77df605b7c22
+  size: 1048576
+  hash: md5
+  path: file_4011.txt

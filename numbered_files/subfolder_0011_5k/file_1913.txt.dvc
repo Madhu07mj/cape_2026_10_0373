@@ -1,0 +1,5 @@
+outs:
+- md5: 8a8d9842df841a4fb0bdca12a47c0ca2
+  size: 1048576
+  hash: md5
+  path: file_1913.txt

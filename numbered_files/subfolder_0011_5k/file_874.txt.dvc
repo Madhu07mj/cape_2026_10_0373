@@ -1,0 +1,5 @@
+outs:
+- md5: 1fb35ce6aecf66ed2de89c33145fd48b
+  size: 1048576
+  hash: md5
+  path: file_874.txt

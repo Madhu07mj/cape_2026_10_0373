@@ -1,0 +1,5 @@
+outs:
+- md5: b5335493a23155f0303541fe9f7fb4fb
+  size: 1048576
+  hash: md5
+  path: file_1311.txt

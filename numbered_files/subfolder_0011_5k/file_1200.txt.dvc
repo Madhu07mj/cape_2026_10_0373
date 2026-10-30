@@ -1,0 +1,5 @@
+outs:
+- md5: 6e9904b080850677dd4e4d84a3a7ebb5
+  size: 1048576
+  hash: md5
+  path: file_1200.txt

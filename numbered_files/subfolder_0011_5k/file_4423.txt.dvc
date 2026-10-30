@@ -1,0 +1,5 @@
+outs:
+- md5: 60938888ebabfe62b80c313405b038ee
+  size: 1048576
+  hash: md5
+  path: file_4423.txt

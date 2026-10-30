@@ -1,0 +1,5 @@
+outs:
+- md5: 6c32504851072ae8844ec71aac69149d
+  size: 1048576
+  hash: md5
+  path: file_1961.txt

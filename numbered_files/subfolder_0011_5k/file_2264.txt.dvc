@@ -1,0 +1,5 @@
+outs:
+- md5: 1fcf15295106a7b55b52420b21e31171
+  size: 1048576
+  hash: md5
+  path: file_2264.txt

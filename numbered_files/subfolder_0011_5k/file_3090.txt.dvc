@@ -1,0 +1,5 @@
+outs:
+- md5: 8304a72239b20431cf0365a967b7aae0
+  size: 1048576
+  hash: md5
+  path: file_3090.txt

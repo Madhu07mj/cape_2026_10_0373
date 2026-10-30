@@ -1,0 +1,5 @@
+outs:
+- md5: 81fc3d1bb7cd02c6e7f29dbb48261d55
+  size: 1048576
+  hash: md5
+  path: file_711.txt

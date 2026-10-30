@@ -1,0 +1,5 @@
+outs:
+- md5: 012244563be5364b605035873096ab64
+  size: 1048576
+  hash: md5
+  path: file_1933.txt

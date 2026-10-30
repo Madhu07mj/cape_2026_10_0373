@@ -1,0 +1,5 @@
+outs:
+- md5: 81ad06da7fc0243632928ea687b5813f
+  size: 1048576
+  hash: md5
+  path: file_2048.txt

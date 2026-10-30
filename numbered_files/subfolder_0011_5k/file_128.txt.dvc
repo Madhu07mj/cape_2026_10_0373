@@ -1,0 +1,5 @@
+outs:
+- md5: af1aac7760a09e0f83ae51035162658a
+  size: 1048576
+  hash: md5
+  path: file_128.txt

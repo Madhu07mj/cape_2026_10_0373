@@ -1,0 +1,5 @@
+outs:
+- md5: 978062174698b46ab7a675f216de1659
+  size: 1048576
+  hash: md5
+  path: file_2734.txt

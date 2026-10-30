@@ -1,0 +1,5 @@
+outs:
+- md5: fee524f3ca73875434424b7bcb3e2296
+  size: 1048576
+  hash: md5
+  path: file_734.txt

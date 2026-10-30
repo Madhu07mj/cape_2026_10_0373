@@ -1,0 +1,5 @@
+outs:
+- md5: 0467a0fbadc432949b163ecc84cf42e1
+  size: 1048576
+  hash: md5
+  path: file_408.txt

@@ -1,0 +1,5 @@
+outs:
+- md5: e2d4c39135850446030aec86e03725ed
+  size: 1048576
+  hash: md5
+  path: file_2009.txt

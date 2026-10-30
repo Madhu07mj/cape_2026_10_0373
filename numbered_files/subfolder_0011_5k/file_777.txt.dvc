@@ -1,0 +1,5 @@
+outs:
+- md5: 331d609eb603ff2a34cae999942ee321
+  size: 1048576
+  hash: md5
+  path: file_777.txt

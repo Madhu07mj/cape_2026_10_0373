@@ -1,0 +1,5 @@
+outs:
+- md5: cd3a227f06c67861d176c44a339f0960
+  size: 1048576
+  hash: md5
+  path: file_360.txt

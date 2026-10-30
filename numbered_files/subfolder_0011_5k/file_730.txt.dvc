@@ -1,0 +1,5 @@
+outs:
+- md5: 9853ad8cfb560acde13749a936299529
+  size: 1048576
+  hash: md5
+  path: file_730.txt

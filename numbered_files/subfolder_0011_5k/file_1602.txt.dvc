@@ -1,0 +1,5 @@
+outs:
+- md5: 6852f5fe3860f592bdb6a2769e98379d
+  size: 1048576
+  hash: md5
+  path: file_1602.txt

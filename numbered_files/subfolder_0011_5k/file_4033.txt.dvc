@@ -1,0 +1,5 @@
+outs:
+- md5: f8b740fb8692c47d835f38596a9232b7
+  size: 1048576
+  hash: md5
+  path: file_4033.txt

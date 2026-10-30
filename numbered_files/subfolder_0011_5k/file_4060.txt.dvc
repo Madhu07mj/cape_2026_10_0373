@@ -1,0 +1,5 @@
+outs:
+- md5: 77cbd190e44eba09bfba84f890c378bc
+  size: 1048576
+  hash: md5
+  path: file_4060.txt

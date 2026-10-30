@@ -1,0 +1,5 @@
+outs:
+- md5: 505381e26df8d20b618ac1697959300b
+  size: 1048576
+  hash: md5
+  path: file_2013.txt

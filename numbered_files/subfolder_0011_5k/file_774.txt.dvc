@@ -1,0 +1,5 @@
+outs:
+- md5: 633644d695fee9d3296d4eb561fb8e38
+  size: 1048576
+  hash: md5
+  path: file_774.txt

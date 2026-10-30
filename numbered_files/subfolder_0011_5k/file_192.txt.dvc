@@ -1,0 +1,5 @@
+outs:
+- md5: c344258846b375450ca8a4a2e0772f70
+  size: 1048576
+  hash: md5
+  path: file_192.txt
