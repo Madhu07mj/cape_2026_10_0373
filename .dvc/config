@@ -1,7 +1,4 @@
 [core]
     remote = flexremote
-    autostage = true
-[cache]
-    type = "hardlink,symlink,copy"
 ['remote "flexremote"']
     url = /mnt/svmroot/fsx_data/dvc_remote_store
