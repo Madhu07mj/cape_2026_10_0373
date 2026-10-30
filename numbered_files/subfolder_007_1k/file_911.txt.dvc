@@ -1,0 +1,5 @@
+outs:
+- md5: 34dffdf834d74430936608d160ad5b2a
+  size: 1048576
+  hash: md5
+  path: file_911.txt

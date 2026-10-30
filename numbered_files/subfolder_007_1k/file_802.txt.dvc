@@ -1,0 +1,5 @@
+outs:
+- md5: e49e96537d9783178dba1b69234b22b8
+  size: 1048576
+  hash: md5
+  path: file_802.txt

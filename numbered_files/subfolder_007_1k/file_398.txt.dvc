@@ -1,0 +1,5 @@
+outs:
+- md5: bbd99f76598016ea75cd58008d5e888a
+  size: 1048576
+  hash: md5
+  path: file_398.txt

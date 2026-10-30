@@ -1,0 +1,5 @@
+outs:
+- md5: 5f4c8581e92deacd27802052484f3b56
+  size: 1048576
+  hash: md5
+  path: file_280.txt

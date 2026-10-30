@@ -1,0 +1,5 @@
+outs:
+- md5: 470b61fb6e837930548cfc084885017e
+  size: 1048576
+  hash: md5
+  path: file_920.txt

@@ -1,0 +1,5 @@
+outs:
+- md5: 3f9493236935c09282e7e6427b14f3ec
+  size: 1048576
+  hash: md5
+  path: file_232.txt

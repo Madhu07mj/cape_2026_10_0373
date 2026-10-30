@@ -1,0 +1,5 @@
+outs:
+- md5: a29c3c843628c260e6c010f888159395
+  size: 1048576
+  hash: md5
+  path: file_486.txt
