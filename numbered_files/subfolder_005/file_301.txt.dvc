@@ -1,0 +1,5 @@
+outs:
+- md5: c71e76db7f61addb4e375f902486a51a
+  size: 1048576
+  hash: md5
+  path: file_301.txt

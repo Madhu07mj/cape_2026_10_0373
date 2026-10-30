@@ -1,0 +1,5 @@
+outs:
+- md5: 3ba31eb6f7e531dc424dfe4f8d82c989
+  size: 1048576
+  hash: md5
+  path: file_400.txt

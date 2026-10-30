@@ -1,0 +1,5 @@
+outs:
+- md5: b05874f0007850ed223a54754b301b94
+  size: 1048576
+  hash: md5
+  path: file_32.txt

@@ -1,0 +1,5 @@
+outs:
+- md5: 45921c4d91e51eb21ac2a1a8a0b35fc1
+  size: 1048576
+  hash: md5
+  path: file_134.txt

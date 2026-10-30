@@ -1,0 +1,5 @@
+outs:
+- md5: efc9f3d34974cfa2838187bdaa1b04d2
+  size: 1048576
+  hash: md5
+  path: file_386.txt

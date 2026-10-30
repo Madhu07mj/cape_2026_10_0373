@@ -1,0 +1,5 @@
+outs:
+- md5: ecef979c6e279446b593e4fa38911fbf
+  size: 1048576
+  hash: md5
+  path: file_343.txt

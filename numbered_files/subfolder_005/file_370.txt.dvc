@@ -1,0 +1,5 @@
+outs:
+- md5: 307b75135a457d71addd018bba2edbca
+  size: 1048576
+  hash: md5
+  path: file_370.txt

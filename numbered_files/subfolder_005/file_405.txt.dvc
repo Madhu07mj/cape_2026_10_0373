@@ -1,0 +1,5 @@
+outs:
+- md5: a6fdbc9d980d8bf47e517caa4e7999f8
+  size: 1048576
+  hash: md5
+  path: file_405.txt
