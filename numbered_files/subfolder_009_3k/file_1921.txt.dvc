@@ -1,0 +1,5 @@
+outs:
+- md5: db5b2e84a0fdd94025239874e5705deb
+  size: 1048576
+  hash: md5
+  path: file_1921.txt

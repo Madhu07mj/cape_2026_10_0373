@@ -1,0 +1,5 @@
+outs:
+- md5: f54d4f237126cfd55f0857811be58552
+  size: 1048576
+  hash: md5
+  path: file_2021.txt

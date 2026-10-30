@@ -1,0 +1,5 @@
+outs:
+- md5: 53ea7e6d953f30e0cd9905a4a72cc918
+  size: 1048576
+  hash: md5
+  path: file_383.txt

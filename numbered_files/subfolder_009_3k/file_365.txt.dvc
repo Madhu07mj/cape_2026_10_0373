@@ -1,0 +1,5 @@
+outs:
+- md5: 0c284333c1b2465a20ddab7ae0292497
+  size: 1048576
+  hash: md5
+  path: file_365.txt

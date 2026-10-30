@@ -1,0 +1,5 @@
+outs:
+- md5: 918958ada3e45e60c0e91c5a51a71eb1
+  size: 1048576
+  hash: md5
+  path: file_606.txt

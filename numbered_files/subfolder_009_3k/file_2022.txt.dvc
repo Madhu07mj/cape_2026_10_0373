@@ -1,0 +1,5 @@
+outs:
+- md5: a1a1611fd95595610c0a628b05cde798
+  size: 1048576
+  hash: md5
+  path: file_2022.txt

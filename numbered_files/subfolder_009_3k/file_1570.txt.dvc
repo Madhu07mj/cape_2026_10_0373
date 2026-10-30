@@ -1,0 +1,5 @@
+outs:
+- md5: cfdac7a1c7a7388459e5390c02e02c47
+  size: 1048576
+  hash: md5
+  path: file_1570.txt

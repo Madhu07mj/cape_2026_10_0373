@@ -1,0 +1,5 @@
+outs:
+- md5: afbcb947eeb976315609174439fdc49f
+  size: 1048576
+  hash: md5
+  path: file_311.txt

@@ -1,0 +1,5 @@
+outs:
+- md5: 075bf0f9bf10e3015e68c5b4e004ceaa
+  size: 1048576
+  hash: md5
+  path: file_1040.txt

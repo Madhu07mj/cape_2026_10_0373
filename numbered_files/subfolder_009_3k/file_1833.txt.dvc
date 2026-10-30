@@ -1,0 +1,5 @@
+outs:
+- md5: 343bc5edc49aa92e78a6f584ab2217bb
+  size: 1048576
+  hash: md5
+  path: file_1833.txt

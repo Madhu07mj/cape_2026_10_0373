@@ -1,0 +1,5 @@
+outs:
+- md5: fba0d4a88f07f680362b30254ec4eea5
+  size: 1048576
+  hash: md5
+  path: file_2584.txt

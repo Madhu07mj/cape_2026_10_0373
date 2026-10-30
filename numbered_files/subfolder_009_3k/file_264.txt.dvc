@@ -1,0 +1,5 @@
+outs:
+- md5: d75e9ef23beb0c359d370993e050dcef
+  size: 1048576
+  hash: md5
+  path: file_264.txt

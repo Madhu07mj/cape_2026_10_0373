@@ -1,0 +1,5 @@
+outs:
+- md5: 540da7374a85600106fd7a2e39ed0206
+  size: 1048576
+  hash: md5
+  path: file_337.txt

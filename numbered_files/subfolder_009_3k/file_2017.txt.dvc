@@ -1,0 +1,5 @@
+outs:
+- md5: 32f10b26e646eee79adf4cfb726544c8
+  size: 1048576
+  hash: md5
+  path: file_2017.txt

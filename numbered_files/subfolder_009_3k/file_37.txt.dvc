@@ -1,0 +1,5 @@
+outs:
+- md5: 7481361899d69bc6b59f74a42276346a
+  size: 1048576
+  hash: md5
+  path: file_37.txt

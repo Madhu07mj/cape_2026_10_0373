@@ -1,0 +1,5 @@
+outs:
+- md5: f87002b7cac6155ba926f81960dae7b8
+  size: 1048576
+  hash: md5
+  path: file_813.txt
